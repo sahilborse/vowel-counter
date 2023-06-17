@@ -1,0 +1,47 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color:grey;
+    text-align: center;
+    justify-content: center;
+   
+   
+}
+.container{
+    display: block;
+    margin: auto;
+    background-color: lightcyan;
+    padding: auto;
+    width: 50%;
+    height: 50%;
+}
+textarea{
+    background-color: lightcoral;
+    font-weight: bold;
+    font-size: x-large;
+    width: auto;
+    height: auto;
+}
+button{
+    background-color: lightpink;
+    
+    border-radius: 20%;
+    font-size: xx-large;
+    font-weight: 800;
+
+}
+.output{
+    color: lightseagreen;
+    font-size: xx-large;
+    font-weight:bold ;
+    
+}
+h1{
+    background-color: lightcoral;
+    color: black;
+    margin: auto;
+    padding:auto;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
