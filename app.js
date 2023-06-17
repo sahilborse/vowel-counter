@@ -16,7 +16,7 @@ function countvowel(){
         sample+=base 
         console.log(sample)
     } 
-    addElement.innerHTML=sample
+    addElement.innerHTML="Number of vowels: "+sample
 }
 
 
